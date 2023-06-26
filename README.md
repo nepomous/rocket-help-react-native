@@ -16,6 +16,6 @@ $ yarn install
 ```bash
 # development
 $ expo start
-$ read the QR Code in your Expo App
-
 ```
+
+- Read the QR Code in your Expo App
