@@ -10,8 +10,12 @@ $ yarn install
 
 ## Running the app
 
+- Download the [Expo App](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)
+- Run the command below
+
 ```bash
 # development
-$ yarn android
+$ expo start
+$ read the QR Code in your Expo App
 
 ```
